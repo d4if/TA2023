@@ -27,3 +27,8 @@ Alamat pendaftaran : iteung.ulbi.ac.id/tugasakhir
 1. 19 Maret 2023 : Deadline pengisian form tugas akhir
 2. 20 Maret 2023 - 13 Mei 2023 : Masa bimbingan
 3. 20 Mei 2023 - 1 Juni 2023 : Sidang Tugas Akhir
+
+## Parameter Penilaian Bimbingan
+
+Penilaian selama bimbingan 8 kali mengacu pada chapter4 PPJI, silahkan dibaca di sini : https://github.com/awangga/PPJI/blob/master/PPJI.pdf
+![image](https://user-images.githubusercontent.com/11188109/224650473-d5ed23d2-a152-4850-a8f3-2b9553695fa7.png)
