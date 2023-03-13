@@ -23,7 +23,7 @@ Alamat pendaftaran : iteung.ulbi.ac.id/tugasakhir
 4. Mengutarakan batasan yang diberikan
 
 ## Timeline
-13 April
+
 1. 7 April 2023 : Deadline pengisian form tugas akhir
 2. 20 Maret 2023 - 7 April 2023 : Masa Pembuatan Jurnal hasil dari Literature Review Intership 2
 3. 10 April 2023 - 3 Juli 2023 : Masa bimbingan Tugas Akhir
