@@ -1,5 +1,6 @@
-# TA2023
-Tugas Akhir 2023 Genap, Persyaratan :
+# Tugas Akhir 2023 Genap
+
+Persyaratan :
 1. URL Buku Intership yang sudah dipublish di Google Play Book atau Jurnal Intership yang sudah status Publish
 2. Sudah memilih dan atau mempersiapkan dataset yang akan dipakai dari list datapedia.web.id, atau untuk data baru/social media sudah scrapping menggunakan go-colly
 3. Sudah berkomunikasi dengan calon pembimbing 1 dan 2 Tugas Akhir
