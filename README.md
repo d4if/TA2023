@@ -28,7 +28,7 @@ Alamat pendaftaran : iteung.ulbi.ac.id/tugasakhir
 2. 7 April 2023 : Deadline pengisian form tugas akhir
 3. 10 April 2023 - 3 Juli 2023 : Masa bimbingan Tugas Akhir
 4. 20 Mei 2023 - 1 Juni 2023 : Masa submit jurnal Tugas Akhir ke Jurnal terindeks Sinta
-5. 2 Juni 2023 - 1 Agustus 2023 : Pemberkasan dan Penyelesaikan Revisi Karya Jurnal, Buku, HKI
+5. 2 Juni 2023 - 1 Agustus 2023 : Pemberkasan Laporan TA dan Penyelesaikan Revisi Karya Jurnal, Buku, HKI
 6. 2 agus - 31 sept 2023 : Sidang Tugas Akhir
 
 ## Parameter Penilaian Bimbingan
