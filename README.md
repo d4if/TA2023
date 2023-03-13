@@ -21,3 +21,9 @@ Alamat pendaftaran : iteung.ulbi.ac.id/tugasakhir
 2. Mengutarakan solusi yang akan diselesaikan
 3. Mengutarakan metode yang akan digunakan
 4. Mengutarakan batasan yang diberikan
+
+## Timeline
+
+1. 19 Maret 2023 : Deadline pengisian form tugas akhir
+2. 20 Maret 2023 - 13 Mei 2023 : Masa bimbingan
+3. 20 Mei 2023 - 1 Juni 2023 : Sidang Tugas Akhir
