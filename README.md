@@ -4,7 +4,7 @@ Persyaratan :
 1. Buat folder di google drive yang berisi
 2. File doc yang berisi : URL Buku Intership/Proyek yang sudah dipublish di Google Play Book beserta skrinsutan web nya dan URL Jurnal Intership/Proyek yang sudah status Publish beserta skrinsutan web nya.
 3. Link share melalui Google Drive dengan status siapa saja yang memiliki link dapat melihat.
-4. Sudah memilih dan atau mempersiapkan dataset yang akan dipakai dari list datapedia.web.id, atau untuk data baru/social media sudah scrapping menggunakan go-colly
+4. Sudah memilih dan atau mempersiapkan dataset yang akan dipakai dari list datapedia.web.id, atau untuk data web baru/social media sudah scrapping menggunakan go-colly
 5. Sudah berkomunikasi dengan calon pembimbing 1 dan 2 Tugas Akhir
 6. Mengisi kolom topik sesuai ketentuan
 7. Mengisi kolom abstrak sesuai ketentuan
