@@ -8,7 +8,7 @@ Persyaratan :
 5. Mengisi kolom topik sesuai ketentuan
 6. Mengisi kolom abstrak sesuai ketentuan
 
-Alamat pendaftaran : iteung.ulbi.ac.id
+Alamat pendaftaran : [iteung.ulbi.ac.id](https://iteung.ulbi.ac.id/)
 
 ## Isi Kolom Link Gdrive
 
