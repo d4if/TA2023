@@ -1,15 +1,20 @@
 # Tugas Akhir 2023 Genap
 
 Persyaratan :
-1. Buat folder di google drive yang berisi
-2. File doc yang berisi : URL Buku Intership/Proyek yang sudah dipublish di Google Play Book beserta skrinsutan web nya dan URL Jurnal Intership/Proyek yang sudah status Publish beserta skrinsutan web nya.
-3. Link share melalui Google Drive dengan status siapa saja yang memiliki link dapat melihat.
-4. Sudah memilih dan atau mempersiapkan dataset yang akan dipakai dari list datapedia.web.id, atau untuk data web baru/social media sudah scrapping menggunakan go-colly
-5. Sudah berkomunikasi dengan calon pembimbing 1 dan 2 Tugas Akhir
-6. Mengisi kolom topik sesuai ketentuan
-7. Mengisi kolom abstrak sesuai ketentuan
+1. Buku Intership/Proyek yang sudah memiliki nomor ISBN
+2. Jurnal Intership/Proyek yang sudah status Publish/Submit
+3. Sudah memilih dan atau mempersiapkan dataset yang akan dipakai dari list datapedia.web.id, atau untuk data web baru/social media sudah scrapping menggunakan go-colly
+4. Sudah berkomunikasi dengan calon pembimbing 1 dan 2 Tugas Akhir
+5. Mengisi kolom topik sesuai ketentuan
+6. Mengisi kolom abstrak sesuai ketentuan
 
 Alamat pendaftaran : iteung.ulbi.ac.id
+
+## Isi Kolom Link Gdrive
+
+1. Buat folder di google drive yang berisi
+2. File doc yang berisi : URL Buku Intership/Proyek yang sudah dipublish di Google Play Book beserta skrinsutan web nya dan URL Jurnal Intership/Proyek yang sudah status Publish atau Submit beserta skrinsutan web nya.
+3. Link share melalui Google Drive dengan status siapa saja yang memiliki link dapat melihat.
 
 ## Isi Kolom Topik
 
