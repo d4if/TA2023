@@ -8,7 +8,7 @@ Persyaratan :
 5. Mengisi kolom topik sesuai ketentuan
 6. Mengisi kolom abstrak sesuai ketentuan
 
-Alamat pendaftaran : iteung.ulbi.ac.id/tugasakhir
+Alamat pendaftaran : iteung.ulbi.ac.id
 
 ## Isi Kolom Topik
 
